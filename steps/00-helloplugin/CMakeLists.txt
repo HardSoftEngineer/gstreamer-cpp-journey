@@ -19,7 +19,7 @@ link_directories(${GST_LIBRARY_DIRS})
 
 add_library(gsthelloplugin SHARED
     src/plugin.cpp
-    src/gst_hello_plugin.cpp
+    src/gst_helloplugin.cpp
 )
 
 target_link_libraries(gsthelloplugin

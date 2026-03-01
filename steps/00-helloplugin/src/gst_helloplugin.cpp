@@ -1,4 +1,4 @@
-#include "gst_hello_plugin.h"
+#include "gst_helloplugin.h"
 
 GST_DEBUG_CATEGORY_STATIC(gst_helloplugin_debug);
 #define GST_CAT_DEFAULT gst_helloplugin_debug

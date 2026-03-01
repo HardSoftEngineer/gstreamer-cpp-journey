@@ -1,5 +1,5 @@
 #include <gst/gst.h>
-#include "gst_hello_plugin.h"
+#include "gst_helloplugin.h"
 
 /* ---- REQUIRED when not using autotools ---- */
 #ifndef PACKAGE
